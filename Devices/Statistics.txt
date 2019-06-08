@@ -1,0 +1,24 @@
+
+Device 0 :
+	total number of track swept : 			12581 / 5153
+	avg TrackSwept : 						8 /3
+	service time per I/O :					1547 / 911
+Device 1:
+	total :								64 /167
+	avg TrackSwept : 						1 / 2
+	service time per I/O :					412 / 368
+Device 2:
+	total :								27 / 16
+	avg TrackSwept : 						2 /1 
+	service time per I/O : 					676 / 849
+
+
+
+
+
+the average number of cylinder swept is mush lower than Demo.jar, since, it implements the FIFO strategy, it didn't minimize the seek time,
+so, the arm will keep moving.
+However, in my project, SSTF is implemented, the selected IORB from the QUEUE is the shortest seek time. the arm in this case, doesn't move that much.
+
+in the case of Service time per I/O, because the seeking time is minimized, the total service time is minimized.
+

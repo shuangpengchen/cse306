@@ -1,0 +1,2603 @@
+java -classpath .::OSP.jar osp.OSP -noGUI 
+-------int init
+Simulation progress: 11/250000--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+Simulation progress: 1021/250000------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+Simulation progress: 2093/250000------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+Simulation progress: 3003/250000--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+Simulation progress: 4033/250000--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 55
+page.frame.page is 55
+true
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 53
+page.frame.page is 53
+true
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+Simulation progress: 5040/250000--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 27
+page.frame.page is 27
+true
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 40
+page.frame.page is 40
+true
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 11
+page.frame.page is 11
+true
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 21
+page.frame.page is 21
+true
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 47
+page.frame.page is 47
+true
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 8
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+Simulation progress: 6013/250000--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 1
+page.frame.page is 1
+true
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 36
+page.frame.page is 36
+true
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 27
+page.frame.page is 27
+true
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 43
+page.frame.page is 28
+false
+Simulation progress: 7062/250000--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 48
+page.frame.page is 48
+true
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 28
+page.frame.page is 28
+true
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 36
+page.frame.page is 36
+true
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+Simulation progress: 8013/250000--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 27
+page.frame.page is 27
+true
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 31
+page.frame.page is 31
+true
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+------------ in do_lock
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 15
+page.frame.page is 15
+true
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 11
+page.frame.page is 11
+true
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 23
+page.frame.page is 52
+false
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+Simulation progress: 9100/250000--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 52
+page.frame.page is 52
+true
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 47
+page.frame.page is 47
+true
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 15
+page.frame.page is 15
+true
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+Simulation progress: 10045/250000--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 35
+page.frame.page is 2
+false
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 19
+page.frame.page is 19
+true
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 52
+page.frame.page is 52
+true
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 35
+page.frame.page is 2
+false
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+Simulation progress: 11060/250000--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 23
+page.frame.page is 52
+false
+Simulation progress: 12040/250000--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 23
+page.frame.page is 52
+false
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 3
+page.frame.page is 63
+false
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 45
+page.frame.page is 45
+true
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+Simulation progress: 13020/250000--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 10
+page.frame.page is 10
+true
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+Simulation progress: 14001/250000--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 15
+page.frame.page is 15
+true
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 9
+page.frame.page is 48
+false
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 45
+page.frame.page is 45
+true
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 13
+page.frame.page is 13
+true
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 55
+page.frame.page is 55
+true
+Simulation progress: 15120/250000--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 17
+page.frame.page is 57
+false
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_lock
+Simulation progress: 16025/250000------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 3
+page.frame.page is 63
+false
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 17
+page.frame.page is 57
+false
+------------ in do_lock
+Simulation progress: 17005/250000------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 49
+page.frame.page is 49
+true
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 55
+page.frame.page is 55
+true
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 32
+page.frame.page is 32
+true
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 32
+page.frame.page is 32
+true
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_lock
+Simulation progress: 18019/250000--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 63
+page.frame.page is 63
+true
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 2
+page.frame.page is 2
+true
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 39
+page.frame.page is 39
+true
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+Simulation progress: 19023/250000--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 11
+page.frame.page is 29
+false
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 9
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 6
+page.frame.page is 6
+true
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_lock
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 12
+------------ in do_lock
+--------- in do_refer
+move LUR to the end
+------ in shift2end
+---in updateReferencedTime
+valid page
+page theone is 23
+page.frame.page is 5
+false
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+do_handlepagefault 13
+page's frame is null? false
+-----
+false
+do_handlepagefault 14
+------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+--------- in do_refer
+invalid
+invalid9
+invalid20
+invalid21
+-------int do_handlePageFault
+do_handlepagefault 3
+do_handlepagefault 4
+page's frmae's page is null ? null
+------ in getLRUFrame
+do_handlepagefault 5
+do_handlepagefault 6
+do_handlepagefault 7
+do_handlepagefault 11
+------------ in do_lock
+------------ in do_lock
+Simulation progress: 20020/250000------------ in do_unlock
+--- in do_unlock1
+--- in do_unlock3
+--- in do_unlock3
+
+
+
+Simulation ended with an error.
+Elapsed time: 0 seconds
+
+Details are in the log file OSP.log
+
